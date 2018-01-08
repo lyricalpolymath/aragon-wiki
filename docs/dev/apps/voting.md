@@ -1,4 +1,4 @@
-# [Voting](https://github.com/aragon/aragon-apps/tree/master/apps/voting)
+# [Voting](https://github.com/aragon/aragon-apps/tree/master/apps/voting)
 
 _**Code in Github:**_ [aragon-apps/apps/voting](https://github.com/aragon/aragon-apps/tree/master/apps/voting)
 
